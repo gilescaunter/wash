@@ -1,4 +1,61 @@
-# Hand Wash Timer Mobile App
+# Medic Creations recruitment test - React Native Instructions
+
+Thanks for taking the time to do our front-end / full-stack coding test. The challenge has two parts:
+
+* a task to create a basic app that will allow people to track their hand washing, keep a history of their hand washing and when needed receive regular reminders to wash their hands.
+* some follow-up questions
+
+You will be graded based on the following have been met:
+* Your implementation works as described in the task.
+
+## Task
+### Approach
+
+Mobile app on iOS and Android using React Native. The app will need to:
+
+* Persist the users hand washing history locally on the device
+* Ask for permission to send push notifications
+* Send local push notifications
+* Have an animated count down timer to help them as they wash their hands
+
+The base project is available in this repo and we want you to fork this repo.
+
+### Task requirements
+
+Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.
+
+* Please complete the user stories below.
+* Your code should run in one step.
+* We'd like you to use React Native. On top of that, use whatever front-end libraries you feel comfortable with.
+* You must include tests
+
+### User Stories
+
+As a user I want to easily start a timer to wash my hands
+
+As a user I want to see a history of my prior hand washing
+
+As a user I want to get reminders every 2 hours when on shift
+
+## Design
+Design assets are available as a Sketch file via Sketch Cloud - https://www.sketch.com/s/nq8e4
+
+Please do not spend a lot of time on styling as this is not the key part of the assessment, and you will not be penalised for basic styles. 
+
+
+## Submission Guidelines
+
+Fork this repo and send a link to the repo on Github/bitbucket/gitlab via email back to your contact.
+
+The FOLLOW-UP.md file should have answers to the follow-up questions.
+
+---
+
+Inspiration for the test format taken with ❤️ from JustEat's recruitment test and Skyscanner recruitment test.
+
+---
+
+# Hand Wash Timer Mobile App - Development Readme
 
 react-native repo for the Medic Bleep Hand Wash Timer mobile app
 
@@ -73,27 +130,9 @@ We have included `@reduxjs/toolkit` which speeds up development by allowing us t
 
 It's worth reading through the [toolkit docs](https://redux-toolkit.js.org/) for more details
 
-## Storybook
+## Dev Tools
 
-**TODO** Implement
-
-[Storybook](https://storybook.js.org/) allows us to list example usages of our components with various props so that we can quickly iterate on them without manually navigating to get the app into a useful state.
-
-Run the storybook server using `yarn storybook`, then start the app with `storybookEnabled` set to `true` in `app/config/local.js`. Storybook takes over the app UI with a component browser.
-
-## Reactotron
-
-**TODO** Implement
-
-[Reactotron](https://github.com/infinitered/reactotron/) is a quick and easy way to inspect what's going on with the app while it's running, and to modify some basic state.
-
-We can use it to quickly run custom actions and to inspect:
-
-- API requests
-- Redux state
-- Sagas
-- Logs
-- Basic performance tracking
+#TODO
 
 ## Tests
 
@@ -103,17 +142,12 @@ Run the tests with `yarn test`. We use a mixture of snapshot tests for making su
 
 We use `prettier` for code formatting.
 
-## Git Flow
-
-The branching model used in this repo is based on [git
-flow](https://nvie.com/posts/a-successful-git-branching-model/)
-
 # Build & Deploy
 
 ## iOS
 
 **TODO** document how to deploy
 
-## Android
+## Android
 
 **TODO** document how to deploy
