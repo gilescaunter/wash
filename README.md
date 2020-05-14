@@ -6,6 +6,7 @@ Thanks for taking the time to do our front-end / full-stack coding test. The cha
 * some follow-up questions
 
 You will be graded based on the following have been met:
+
 * Your implementation works as described in the task.
 
 ## Task
@@ -38,6 +39,7 @@ As a user I want to see a history of my prior hand washing
 As a user I want to get reminders every 2 hours when on shift
 
 ## Design
+
 Design assets are available as a Sketch file via Sketch Cloud - https://www.sketch.com/s/nq8e4
 
 Please do not spend a lot of time on styling as this is not the key part of the assessment, and you will not be penalised for basic styles. 
