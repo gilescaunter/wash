@@ -40,7 +40,7 @@ As a user I want to get reminders every 2 hours when on shift
 
 ## Design
 
-Design assets are available as a Sketch file via Sketch Cloud - https://www.sketch.com/s/nq8e4
+Design assets are available as a Sketch file via Sketch Cloud - https://www.sketch.com/s/PbxpL
 
 Please do not spend a lot of time on styling as this is not the key part of the assessment, and you will not be penalised for basic styles. 
 
